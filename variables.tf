@@ -6,5 +6,5 @@ variable "location" {
 variable "prefix" {
   type        = string
   default     = "darthi"
-  description = "The prefix used for all resources"
+  description = "The prefix1 used for all resources"
 }
