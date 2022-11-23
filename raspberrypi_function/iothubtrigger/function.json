@@ -5,7 +5,7 @@
       "type": "eventHubTrigger",
       "name": "events",
       "direction": "in",
-      "eventHubName": "<PREFIX>iotpirg",
+      "eventHubName": "dartiotpirg",
       "connection": "ConnectionString",
       "cardinality": "many",
       "consumerGroup": "$Default",
